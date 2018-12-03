@@ -1,13 +1,13 @@
 # Holocaust_Veterans
 [Spark Summary](https://spark.adobe.com/page/QU7C7RN82eRj3/)
 
-This project is based off of the [USC Shoa Foundation Visual History Archive](link to archive) & the [Clemson Veteran History project](link to veteran history project)
+This project is based off of the [USC Shoa Foundation Visual History Archive](https://sfi.usc.edu/vha) & the [Clemson Veteran History project](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1084&context=foci)
  
 ## Anticipated Workflow
 The pipeline for the Holocaust/Veterans project is as follows:
 1. Gather data:
 	- automatically with a script
-	- Manually record audio from the videos with [Audacity](link for audacity)
+	- Manually record audio from the videos with [Audacity](https://www.audacityteam.org/download/)
 2. Generate transcripts from the audio using speech-to-text
 	- `transcribe.sh` is used for this purpose
 	- The syntax for using transcribe.sh is as follows:
@@ -31,7 +31,7 @@ There are two ways in which you can analyze the data:
 	2. [Personality Insights](https://personality-insights-demo.ng.bluemix.net/)
 		- `PI.sh` is a curl call to a lite personality insights service
 		- `PI.sh` accepts a text file on input and will output a json of the personality insights from the text file
-		- NOTE: it is recommended that a [JSON tree viewer](link to tree viewer) is implemented for ease of readability before visualization
+		- NOTE: it is recommended that a [JSON tree viewer](https://codebeautify.org/jsonviewer) is implemented for ease of readability before visualization
 		- The proper syntax for using `PI.sh` is as follows: `~/Holocaust_Veterans/.../PI.sh "@INTERVIEWEE_RESPONSES.txt" > INTERVIEWEE_PERSONALITY_INSIGHTS.json`
  		
 5. Visualize the data
