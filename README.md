@@ -35,4 +35,5 @@ There are two ways in which you can analyze the data:
 		- The proper syntax for using `PI.sh` is as follows: `~/Holocaust_Veterans/.../PI.sh "@INTERVIEWEE_RESPONSES.txt" > INTERVIEWEE_PERSONALITY_INSIGHTS.json`
  		
 5. Visualize the data
+
 You can visualize the personality insights by using a JSON tree viewer in conjunction with `plot.py` to generate the plot found under the "Results" Section of the Spark Summary linked above. `plot.py` will get you started on creating your own graph, but you will need to either automate the plotting of values on the y-axis, or hardcode these values to plot a desired graph.
