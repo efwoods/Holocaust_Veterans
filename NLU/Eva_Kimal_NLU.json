@@ -1,0 +1,149 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15553,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Person",
+      "text": "EVA English",
+      "sentiment": {
+        "score": -0.409946,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.047636,
+        "joy": 0.045808,
+        "fear": 0.017335,
+        "disgust": 0.0216,
+        "anger": 0.020391
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kimball K. I. M. E. L.",
+      "sentiment": {
+        "score": -0.409946,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.047636,
+        "joy": 0.045808,
+        "fear": 0.017335,
+        "disgust": 0.0216,
+        "anger": 0.020391
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "A. J.",
+      "sentiment": {
+        "score": -0.409946,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.047636,
+        "joy": 0.045808,
+        "fear": 0.017335,
+        "disgust": 0.0216,
+        "anger": 0.020391
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "A. J. Baker",
+        "dbpedia_resource": "http://dbpedia.org/resource/A._J._Baker"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hours",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "one day",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "eight hours",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven hours",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two days",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

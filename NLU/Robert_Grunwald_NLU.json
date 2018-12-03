@@ -1,0 +1,555 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3559,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "survivor Robert Greenwald interviewer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.817276,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "date August",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.675447,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "name",
+      "sentiment": {
+        "score": 0.596312,
+        "label": "positive"
+      },
+      "relevance": 0.671315,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 3
+    },
+    {
+      "text": "birth",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.625844,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "survivor Robert Greenwald",
+      "sentiment": {
+        "score": 0.597608,
+        "label": "positive"
+      },
+      "relevance": 0.623235,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "city",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.611809,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 2
+    },
+    {
+      "text": "Washington Heights New York City",
+      "sentiment": {
+        "score": 0.597608,
+        "label": "positive"
+      },
+      "relevance": 0.581207,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "country of your birth Vienna Austria",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.557043,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "end",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.541702,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "chip",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.540459,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "date of birth",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.540197,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "Robert Greenwald",
+      "sentiment": {
+        "score": 0.596312,
+        "label": "positive"
+      },
+      "relevance": 0.536185,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 2
+    },
+    {
+      "text": "house",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.532738,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "brothers",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.522696,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "family",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.514287,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "HESITATION",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.510488,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 2
+    },
+    {
+      "text": "August",
+      "sentiment": {
+        "score": 0.596312,
+        "label": "positive"
+      },
+      "relevance": 0.50511,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 2
+    },
+    {
+      "text": "names of your parents",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.499887,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "Max Maximilian US sisters",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.492022,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "father's name",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.48395,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "Shirley Berenstain S. H. I. R. L. E. Y. B.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.43642,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "New York New York country United States of America language",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.435286,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "house of the apartment",
+      "sentiment": {
+        "score": -0.917721,
+        "label": "negative"
+      },
+      "relevance": 0.432535,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "years",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.428722,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "E. R. E. N. S. T. E. I. N.",
+      "sentiment": {
+        "score": 0.597608,
+        "label": "positive"
+      },
+      "relevance": 0.428186,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    },
+    {
+      "text": "G. R. U. N. W. A. LD",
+      "sentiment": {
+        "score": 0.594711,
+        "label": "positive"
+      },
+      "relevance": 0.418201,
+      "emotion": {
+        "sadness": 0.054287,
+        "joy": 0.030974,
+        "fear": 0.023887,
+        "disgust": 0.011921,
+        "anger": 0.046277
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.024832,
+        "joy": 0.017228,
+        "fear": 0.020045,
+        "disgust": 0.010475,
+        "anger": 0.00999
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Greenwald",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.024832,
+        "joy": 0.017228,
+        "fear": 0.020045,
+        "disgust": 0.010475,
+        "anger": 0.00999
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer"
+        ],
+        "name": "Robert Greenwald",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Greenwald"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Berenstain",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.024832,
+        "joy": 0.017228,
+        "fear": 0.020045,
+        "disgust": 0.010475,
+        "anger": 0.00999
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.024832,
+        "joy": 0.017228,
+        "fear": 0.020045,
+        "disgust": 0.010475,
+        "anger": 0.00999
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty seventy two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    }
+  ]
+}

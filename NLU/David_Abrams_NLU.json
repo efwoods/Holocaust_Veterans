@@ -1,0 +1,350 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 21601,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mister David Abrams",
+      "sentiment": {
+        "score": 0.819239,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.326054,
+        "joy": 0.352539,
+        "fear": 0.050062,
+        "disgust": 0.134688,
+        "anger": 0.150874
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.819239,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.439191,
+        "joy": 0.290948,
+        "fear": 0.064842,
+        "disgust": 0.203056,
+        "anger": 0.105945
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Abraham",
+      "sentiment": {
+        "score": 0.819239,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.439191,
+        "joy": 0.290948,
+        "fear": 0.064842,
+        "disgust": 0.203056,
+        "anger": 0.105945
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Romania",
+      "sentiment": {
+        "score": 0.819239,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.439191,
+        "joy": 0.290948,
+        "fear": 0.064842,
+        "disgust": 0.203056,
+        "anger": 0.105945
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Brooklyn",
+      "sentiment": {
+        "score": 0.819239,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.734131,
+        "joy": 0.171858,
+        "fear": 0.027094,
+        "disgust": 0.03409,
+        "anger": 0.134465
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr Abrams",
+      "sentiment": {
+        "score": 0.819239,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.439191,
+        "joy": 0.290948,
+        "fear": 0.064842,
+        "disgust": 0.203056,
+        "anger": 0.105945
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "thirteen twelve eleven thirteen year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight nine ten years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "forty nine days",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nineteen years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eleven years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifteen year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five days",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven day",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17429,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Person",
+      "text": "A. R. O. N.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.042256,
+        "joy": 0.035371,
+        "fear": 0.635162,
+        "disgust": 0.011421,
+        "anger": 0.019829
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "S. H. M. A. R. I. E. P.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.042256,
+        "joy": 0.035371,
+        "fear": 0.635162,
+        "disgust": 0.011421,
+        "anger": 0.019829
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Czechoslovakia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.420744,
+        "joy": 0.59791,
+        "fear": 0.070956,
+        "disgust": 0.015521,
+        "anger": 0.066038
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Czechoslovakia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Czechoslovakia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Romania",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.507243,
+        "joy": 0.69257,
+        "fear": 0.094448,
+        "disgust": 0.026225,
+        "anger": 0.474215
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Romania",
+        "dbpedia_resource": "http://dbpedia.org/resource/Romania"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Birmingham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.042256,
+        "joy": 0.035371,
+        "fear": 0.635162,
+        "disgust": 0.011421,
+        "anger": 0.019829
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Birmingham, Indiana",
+        "dbpedia_resource": "http://dbpedia.org/resource/Birmingham,_Indiana"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Alabama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.042256,
+        "joy": 0.035371,
+        "fear": 0.635162,
+        "disgust": 0.011421,
+        "anger": 0.019829
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Alabama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alabama"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "M. A. R. T.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.042256,
+        "joy": 0.035371,
+        "fear": 0.635162,
+        "disgust": 0.011421,
+        "anger": 0.019829
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

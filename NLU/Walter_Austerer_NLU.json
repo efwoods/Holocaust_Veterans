@@ -1,0 +1,169 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7156,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Larry Rosenberg",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Larry Rosenberg",
+        "dbpedia_resource": "http://dbpedia.org/resource/Larry_Rosenberg"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Rockville",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "New York state USA",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Walter Oster",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Walt",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "W. A. L. T. E. R.",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Vienna Austria",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Walter I",
+      "sentiment": {
+        "score": 0.559054,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.036579,
+        "joy": 0.054655,
+        "fear": 0.024264,
+        "disgust": 0.016123,
+        "anger": 0.026021
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Walter I, Prior of St Andrews",
+        "dbpedia_resource": "http://dbpedia.org/resource/Walter_I,_Prior_of_St_Andrews"
+      },
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

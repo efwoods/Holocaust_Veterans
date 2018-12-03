@@ -1,0 +1,1 @@
+curl -X POST -u "apikey":"BONAqohdZDnwkBt3b2kBaHes_X1VjHenrqNIY7eARILX" -H "Content-Type: application/json" -d @parameters.json "https://gateway.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2018-09-21"

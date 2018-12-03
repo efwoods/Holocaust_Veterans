@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 22880,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.063435,
+        "joy": 0.02799,
+        "fear": 0.032623,
+        "disgust": 0.032646,
+        "anger": 0.031678
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Erin Elster",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Lincolnshire Illinois",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "A. R. O. N.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "E. L. S. T. E. R.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Aaron Elster",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Lincoln shire Illinois",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Susan London L. O. N. D. O.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.065156,
+        "joy": 0.019247,
+        "fear": 0.030795,
+        "disgust": 0.028464,
+        "anger": 0.027027
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one day",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "five six seven years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven eight years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five six years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

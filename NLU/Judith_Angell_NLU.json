@@ -1,0 +1,33 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9728,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "five days",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

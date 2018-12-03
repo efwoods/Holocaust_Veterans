@@ -1,0 +1,289 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 23881,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Starkey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Marcia Morris Byron",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pittsburgh",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Pittsburgh",
+        "dbpedia_resource": "http://dbpedia.org/resource/Pittsburgh"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pennsylvania",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "M. O.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tom",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.027667,
+        "joy": 0.050334,
+        "fear": 0.016946,
+        "disgust": 0.009922,
+        "anger": 0.030087
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Marsha barren medical",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Morris I",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "H. O. R. O. D. O. K.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "M. O. S. H.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "B. A. R. A. N.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "H. O. R. O. D. O.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.026851,
+        "joy": 0.048648,
+        "fear": 0.016753,
+        "disgust": 0.009484,
+        "anger": 0.026794
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "ten ten kilometers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety dollars",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ninety percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one pound",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "keywords: cannot analyze: downstream issue"
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2373,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "windows",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.70085,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 2
+    },
+    {
+      "text": "Jewish people",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.642415,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "house",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.628267,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 3
+    },
+    {
+      "text": "windows bricks",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.62331,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "stones",
+      "sentiment": {
+        "score": -0.644928,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.616154,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 3
+    },
+    {
+      "text": "young people",
+      "sentiment": {
+        "score": 0.921479,
+        "label": "positive"
+      },
+      "relevance": 0.615147,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "people",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.611629,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "night",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.569706,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "run",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.564891,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "light",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.550787,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "dress",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.54901,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "synagogue",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.546046,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "flames",
+      "sentiment": {
+        "score": 0.921479,
+        "label": "positive"
+      },
+      "relevance": 0.545776,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 2
+    },
+    {
+      "text": "blinds",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.545337,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "windows of the Jews",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.545154,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "infamous Kristan",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.543339,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "kinds of things",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.540484,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "next building",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.540145,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "coke",
+      "sentiment": {
+        "score": 0.921479,
+        "label": "positive"
+      },
+      "relevance": 0.53271,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "TV someplace",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.532702,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "lot of noise",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.527123,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "cynical pro",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.524294,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "breaking of glass",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.522093,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "beautiful windows",
+      "sentiment": {
+        "score": 0.921479,
+        "label": "positive"
+      },
+      "relevance": 0.509839,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "look",
+      "sentiment": {
+        "score": -0.960374,
+        "label": "negative"
+      },
+      "relevance": 0.468651,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "B. R. E. U. E. R.",
+      "sentiment": {
+        "score": -0.369925,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.431017,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    },
+    {
+      "text": "cook",
+      "sentiment": {
+        "score": 0.921479,
+        "label": "positive"
+      },
+      "relevance": 0.428668,
+      "emotion": {
+        "sadness": 0.451191,
+        "joy": 0.008139,
+        "fear": 0.618662,
+        "disgust": 0.024872,
+        "anger": 0.106997
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kristan",
+      "sentiment": {
+        "score": -0.335629,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.452428,
+        "joy": 0.011064,
+        "fear": 0.62335,
+        "disgust": 0.024552,
+        "anger": 0.086365
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kristen light",
+      "sentiment": {
+        "score": -0.335629,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.452428,
+        "joy": 0.011064,
+        "fear": 0.62335,
+        "disgust": 0.024552,
+        "anger": 0.086365
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "B. R. E. U. E. R.",
+      "sentiment": {
+        "score": -0.335629,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.452428,
+        "joy": 0.011064,
+        "fear": 0.62335,
+        "disgust": 0.024552,
+        "anger": 0.086365
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.299799,
+        "joy": 0.038159,
+        "fear": 0.153292,
+        "disgust": 0.17428,
+        "anger": 0.65105
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Munich",
+      "sentiment": {
+        "score": -0.276543,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "emotion": {
+        "sadness": 0.368993,
+        "joy": 0.100093,
+        "fear": 0.188155,
+        "disgust": 0.127394,
+        "anger": 0.600542
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2919,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Aleutian oscillation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.658587,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "religious yeah",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.6516,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "holidays VOB",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.639147,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "flank water",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.63311,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "Paso Passover",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.629866,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "Hillary laughter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.629031,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "view stream",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.628575,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "water Feliciano",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.626018,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "little bit",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.625872,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "ways movies",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.624905,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "small kids",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.623001,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "little window",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.620388,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "holiday soul",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.618626,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "mall hours stores",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.618608,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "relative path",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.616747,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "vin number",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.616391,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "high holidays",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.614944,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "big house",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.612838,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "air V.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.608208,
+      "emotion": {
+        "sadness": 0.072663,
+        "joy": 0.102543,
+        "fear": 0.171021,
+        "disgust": 0.133051,
+        "anger": 0.094184
+      }
+    },
+    {
+      "text": "example life",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.606541,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "old seed",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.604918,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "father",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.512978,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "mother",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.508651,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "war",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.501903,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "place",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.497145,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "synagogue",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.481229,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "skis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.480308,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "corporation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.472258,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "family",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.47141,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "children",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.471254,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "Kanto",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.459603,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "defectors",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.458465,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "okay",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.45118,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "Nestle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.450515
+    },
+    {
+      "text": "Burma",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.445366,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "feminism",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.44397,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "mortar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.442843,
+      "emotion": {
+        "sadness": 0.072663,
+        "joy": 0.102543,
+        "fear": 0.171021,
+        "disgust": 0.133051,
+        "anger": 0.094184
+      }
+    },
+    {
+      "text": "pairing",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.44201,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "sin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.441293,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "sting",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.441274,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "everybody",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.441171,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "list",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440862,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "point",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440725,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "mind",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440704,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "fixture",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440618,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "company",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440527,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "owners",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440301,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    },
+    {
+      "text": "fashion",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440021,
+      "emotion": {
+        "sadness": 0.049265,
+        "joy": 0.848894,
+        "fear": 0.007051,
+        "disgust": 0.016787,
+        "anger": 0.098736
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "eighteen years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "count": 1
+    }
+  ]
+}
