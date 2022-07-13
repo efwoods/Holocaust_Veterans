@@ -1,5 +1,5 @@
 # Holocaust_Veterans
-[Spark Summary](https://spark.adobe.com/page/QU7C7RN82eRj3/)
+<!-- [Spark Summary](https://spark.adobe.com/page/QU7C7RN82eRj3/) -->
 
 This project is based off of the [USC Shoa Foundation Visual History Archive](https://sfi.usc.edu/vha) & the [Clemson Veteran History project](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1084&context=foci)
  
